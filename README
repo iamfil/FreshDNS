@@ -1,0 +1,12 @@
+FreshDNS is a PHP application intended to update Dynamic DNS records.
+Current supported DNS services include:
+
+    * Namecheap
+
+Current supported update methods include:
+
+    * UPnP
+	* DirectIP from a URL
+
+The PHP version will no longer be developed. A newer version
+is in the works without the need for PHP.
